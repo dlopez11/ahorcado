@@ -1,0 +1,72 @@
+body {
+	text-align: center;
+	background-color: #CFD1C7;
+}
+
+.Text {		
+	border-radius: 5px;
+	border-color: black	
+}
+
+.Clean {
+	font-size: 15px;
+	color: black;
+	text-decoration: none;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+.MainMenu {
+	background: #1E1E1E;
+	text-align: right;	
+	height: 3.75em;
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+	.MainMenu-list {
+		margin: 0;
+		padding: 0;
+	}
+
+	.MainMenu-item {
+		display: inline-block;
+	}
+
+	.MainMenu-link {
+		color: #00DBFF;
+		text-decoration: none;
+		line-height: 3.75em;
+		margin-right: 1.5em;
+	}
+
+	.MainMenu-link:hover {
+		color: white;
+	}
+
+.error {
+	color: red;
+	padding: 10px;
+
+}
+
+.good {
+	color: green;
+	padding: 10px;
+
+}
+
+article {
+	background-color: black;
+	border-radius: 7px;
+	padding: 15px;
+	box-shadow: 7px 7px 5px #888888;
+}
+
+.Text-info {	
+	text-align: center;
+	font-size: 15px;
+	color: white;
+	font-style: italic;
+}
